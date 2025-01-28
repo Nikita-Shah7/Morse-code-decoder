@@ -31,6 +31,7 @@ module reciever_tb;
 		
 		#20 serial_inp = 0;
 		
+		// L
 		#20 serial_inp = 0;
 		#20 serial_inp = 1;
 		#20 serial_inp = 0;
@@ -47,6 +48,7 @@ module reciever_tb;
 				
 		#20 serial_inp = 0;
 		
+		// 4
 		#20 serial_inp = 0;
 		#20 serial_inp = 1;
 		#20 serial_inp = 0;
@@ -67,6 +69,7 @@ module reciever_tb;
 		
 		#20 serial_inp = 0;
 		
+		// 6
 		#20 serial_inp = 0;		
 		#20 serial_inp = 1;	#20 serial_inp = 1;	#20 serial_inp = 1;
 		#20 serial_inp = 0;
@@ -86,6 +89,7 @@ module reciever_tb;
 		
 		#20 serial_inp = 0;
 		
+		// 7
 		#20 serial_inp = 0;		
 		#20 serial_inp = 1;	#20 serial_inp = 1;	#20 serial_inp = 1;
 		#20 serial_inp = 0;
@@ -105,6 +109,7 @@ module reciever_tb;
 		
 		#20 serial_inp = 0;
 		
+		// D
 		#20 serial_inp = 0;		
 		#20 serial_inp = 1;	#20 serial_inp = 1;	#20 serial_inp = 1;
 		#20 serial_inp = 0;
@@ -118,6 +123,8 @@ module reciever_tb;
 		
 		#20 serial_inp = 0;
 		
+
+		// I
 		#20 serial_inp = 0;
 		#20 serial_inp = 1;
 		#20 serial_inp = 0;
@@ -128,6 +135,7 @@ module reciever_tb;
 		
 		#20 serial_inp = 0;	
 		
+		// G
 		#20 serial_inp = 0;		
 		#20 serial_inp = 1;	#20 serial_inp = 1;	#20 serial_inp = 1;
 		#20 serial_inp = 0;
@@ -141,6 +149,7 @@ module reciever_tb;
 		
 		#20 serial_inp = 0;
 		
+		// I
 		#20 serial_inp = 0;
 		#20 serial_inp = 1;
 		#20 serial_inp = 0;
@@ -197,6 +206,7 @@ module reciever_tb;
 		
 		#20 serial_inp = 0;	
 		
+		// G
 		#20 serial_inp = 0;		
 		#20 serial_inp = 1;	#20 serial_inp = 1;	#20 serial_inp = 1;
 		#20 serial_inp = 0;
